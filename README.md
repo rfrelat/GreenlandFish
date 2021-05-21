@@ -1,7 +1,7 @@
 # Dynamics of Greenland fish communities
 
 
-This repository contains the scripts and dataset to reproduce the results presented in the manuscript **Deep demersal fish communities respond to surface climate fluctuations** by Margrete Emblemsvag, Karl Michael Werner, Ismael Núñez-Riboni, Romain Frelat, Helle Torp Christensen, Heino O. Fock and Raul Primicerio.
+This repository contains the scripts and dataset to reproduce the results presented in the manuscript **Deep demersal fish communities respond rapidly to warming** by Margrete Emblemsvag, Karl Michael Werner, Ismael Núñez-Riboni, Romain Frelat, Helle Torp Christensen, Heino O. Fock and Raul Primicerio.
 
 
 
@@ -23,7 +23,7 @@ Version: all analyses were run on R4.0.2.
 
 
 
-The dataset and additional functions are all included in the Rdata file [TensorGreenland.Rdata](https://github.com/rfrelat/NorthSeaFoodWeb/raw/main/TensorNorthSea.Rdata) which contains:
+The dataset and additional functions are all included in the Rdata file [TensorGreenland.Rdata](https://github.com/rfrelat/GreenlandFish/raw/main/TensorGreenland.Rdata) which contains:
 
 - logtensor: the tensor of log transformed abundance of 55 species, over 18 years and 7 depth layers
 - biogeography: the biogeography of the 55 species
