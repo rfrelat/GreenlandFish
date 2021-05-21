@@ -1,7 +1,7 @@
 # Dynamics of Greenland fish communities
- Companion data and script to the manuscript "Deep demersal fish communities respond to surface climate fluctuations"
 
-The repository contains the scripts and dataset to reproduce the results presented in the manuscript "Deep demersal fish communities respond to surface climate fluctuations" by Margrete Emblemsvag, Karl Michael Werner, Ismael Núñez-Riboni, Romain Frelat, Helle Torp Christensen, Heino O. Fock and Raul Primicerio.
+
+This repository contains the scripts and dataset to reproduce the results presented in the manuscript **Deep demersal fish communities respond to surface climate fluctuations** by Margrete Emblemsvag, Karl Michael Werner, Ismael Núñez-Riboni, Romain Frelat, Helle Torp Christensen, Heino O. Fock and Raul Primicerio.
 
 
 
