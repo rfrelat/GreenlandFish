@@ -9,7 +9,7 @@ The script is commented as much as possible, but is not intended to be a tutoria
 
 
 
-The analysis is carried out in the script [TensorGreenland.R](https://github.com/rfrelat/NorthSeaFoodWeb/raw/main/TensorGreenland.R) All steps needed to run the Tensor decomposition on the log-scaled abundance and the clustering of the species based on their spatio-temporal dynamics. all figures shown in the manuscript and in the supplementary materials can be reproduced.
+The analysis is carried out in the script [TensorGreenland.R](https://github.com/rfrelat/GreenlandFish/blob/main/TensorGreenland.R) All steps needed to run the Tensor decomposition on the log-scaled abundance and the clustering of the species based on their spatio-temporal dynamics. all figures shown in the manuscript and in the supplementary materials can be reproduced.
 
 
 
