@@ -34,4 +34,5 @@ The dataset and additional functions are all included in the Rdata file [TensorG
 
 
 
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)[![DOI](https://zenodo.org/badge/369439406.svg)](https://zenodo.org/badge/latestdoi/369439406)
+
