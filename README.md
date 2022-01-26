@@ -1,15 +1,15 @@
 # Dynamics of Greenland fish communities
 
 
-This repository contains the scripts and dataset to reproduce the results presented in the manuscript **Deep demersal fish communities respond rapidly to warming** by Margrete Emblemsvag, Karl Michael Werner, Ismael Núñez-Riboni, Romain Frelat, Helle Torp Christensen, Heino O. Fock and Raul Primicerio.
+This repository contains the scripts and dataset to reproduce the results presented in the manuscript **Deep demersal fish communities respond rapidly to warming in a frontal region between Arctic and Atlantic waters** by Margrete Emblemsvag, Karl Michael Werner, Ismael Núñez-Riboni, Romain Frelat, Helle Torp Christensen, Heino O. Fock and Raul Primicerio published in *Global Change Biology*.
 
 
 
-The script is commented as much as possible, but is not intended to be a tutorial. For tutorial about tensor decomposition, please visit: https://rfrelat.github.io/Multivariate2D3D.html. For more information about the material and method, please see the original manuscript.
+The script is commented as much as possible, but it is not intended to be a tutorial. For tutorial about tensor decomposition, please visit: https://rfrelat.github.io/Multivariate2D3D.html. For more information about the material and method, please see the original manuscript.
 
 
 
-The analysis is carried out in the script [TensorGreenland.R](https://github.com/rfrelat/GreenlandFish/blob/main/TensorGreenland.R) All steps needed to run the Tensor decomposition on the log-scaled abundance and the clustering of the species based on their spatio-temporal dynamics. all figures shown in the manuscript and in the supplementary materials can be reproduced.
+The analysis is carried out in the script [TensorGreenland.R](https://github.com/rfrelat/GreenlandFish/blob/main/TensorGreenland.R). All steps needed to run the Tensor decomposition on the log-scaled abundance and the clustering of the species based on their spatio-temporal dynamics. All figures shown in the manuscript and in the supplementary materials are reproduced while running the script.
 
 
 
